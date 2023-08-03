@@ -1,6 +1,7 @@
 # bullseye
 
-A new Flutter project.
+Interesting Kodeco Flutter course, enjoyed working through it.
+Uploading repository for reference.
 
 ## Getting Started
 
